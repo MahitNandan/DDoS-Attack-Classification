@@ -39,8 +39,8 @@ e. Create Frontend\
 f. Use saved model to predict the type of DDoS Attack
 
 ## Frontend 
-![plot](./frontend1.png)
 ![plot](./frontend2.png)
+![plot](./frontend1.png)
 
 ## Website
 
